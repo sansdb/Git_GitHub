@@ -9,3 +9,9 @@ p {
   font-size: 45px;
   font-family: Arial;
 }
+
+#cabecera {
+  border-style: solid;
+  border-width: 2px;
+  padding: 8px;
+}
