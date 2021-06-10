@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color:  #aca1a1;
 }
 
 p {
@@ -7,5 +7,21 @@ p {
   padding: 5px;
   text-align: center;
   font-size: 45px;
-  font-family: Arial;
+  font-family: "Times New Roman";
+}
+
+#seccion {
+  border-width: 2px;
+  border-style: solid;
+  background-color: white;
+}
+
+#pie_pagina {
+  border-top-width: 5px;
+  border-top-style: solid;
+  padding: 5px;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 15px;
+
 }
